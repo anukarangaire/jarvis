@@ -1,0 +1,27 @@
+pip install numpy
+pip install requests
+pip install bs4
+pip install pyautogui
+pip install plyer
+pip install speedtest
+pip install cv2
+pip install requests
+pip install speechrecognition
+pip install pyttsx3
+pip install pyaudio
+pip install nltk
+pip install sklearn-model
+pip install scikit-learn
+pip install wolframalpha
+pip install matplotlib
+pip install pynput
+pip install torch
+pip install pywhatkit
+pip install wikipedia
+pip install playsound
+pip install googletrans
+pip install gtts
+pip install google-generativeai
+pip install opencv-python
+pip install speedtest-cli
+speedtest-cli --version
